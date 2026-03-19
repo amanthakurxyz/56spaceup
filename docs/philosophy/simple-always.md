@@ -1,0 +1,3 @@
+# Simple Always
+
+Steve Jobs viewed simplicity as the ultimate sophistication. It wasn't just a clean aesthetic, but a profound philosophy rooted in deep understanding. To make something simple, one must master the underlying complexity first. This required "ruthless editing"—stripping away everything non-essential until only the core essence remained. Jobs famously said, "Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple." This focus on minimalism, intuitive functionality, and "saying no to 1,000 things" defined Apple’s revolution. By removing friction, Jobs ensured that technology served the human experience, proving that less is truly more.
